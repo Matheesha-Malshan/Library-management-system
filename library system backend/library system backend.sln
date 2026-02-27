@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "library system backend", "library system backend\library system backend.csproj", "{449E4B9C-B53F-42B0-8263-C32F72C3D653}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{449E4B9C-B53F-42B0-8263-C32F72C3D653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449E4B9C-B53F-42B0-8263-C32F72C3D653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449E4B9C-B53F-42B0-8263-C32F72C3D653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449E4B9C-B53F-42B0-8263-C32F72C3D653}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -5,7 +5,6 @@ A .NET 9 Web API for managing books in a library system.
 - SQLite database with Entity Framework Core
 - AutoMapper for DTO mapping
 - Swagger/OpenAPI documentation
-- CORS enabled for frontend integration
 ## Technologies
 - ASP.NET Core 9
 - Entity Framework Core 9
@@ -186,4 +185,3 @@ bookService.deleteBook(isbn)
 npm run build
 ```
 The production build will be created in the `dist` folder.
-## License

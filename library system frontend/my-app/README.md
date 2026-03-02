@@ -19,7 +19,7 @@ npm install
 
 2. Configure API URL:
    - Edit `.env` file and set `VITE_API_BASE_URL` to your backend API URL
-   - Default: `http://localhost:5000`
+   - Default: `http://localhost:5180`
 
 3. Run development server:
 ```bash
